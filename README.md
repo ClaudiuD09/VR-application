@@ -7,7 +7,7 @@ This test application is for checking functionality and compatibility for using 
 
 For this application, the GoDot game engine was used to create the virtual environment and control, and Android Studio was used for exporting to the Android phone.
 
--This test was only on Android phones-
+-This test was done only on Android phones-
 
 Android Studio will be required for export - here are some useful links:
 
