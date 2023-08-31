@@ -7,7 +7,9 @@ This test application is for checking functionality and compatibility for using 
 -This test was only on Android phones-
 
 Android Studio will be required for export - here are some useful links:
+
 Install : https://developer.android.com/games/engines/godot/godot-configure || https://docs.godotengine.org/en/stable/contributing/development/configuring_an_ide/android_studio.html
+
 Export : https://developer.android.com/games/engines/godot/godot-export || https://docs.godotengine.org/en/stable/tutorials/export/exporting_for_android.html
 
 Some screenshots from the application:
