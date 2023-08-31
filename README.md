@@ -1,9 +1,12 @@
 # VR-application
-VR application using the phone as a screen and a Bluetooth controller for joysticks.
+VR application in GoDot, using the phone as a screen and a Bluetooth controller for joysticks.
 
 
 Description:
-This test application is for checking functionality and compatibility for using a phone (Android) as a VR screen (Google Cardboard) and a Bluetooth controller (like a PS4 controller) as joysticks to simulate a pair of budget VR headsets.
+This test application is for checking functionality and compatibility for using a phone (Android) as a VR screen (Google Cardboard) and a Bluetooth controller (like a PS4 controller) as joysticks to simulate a pair of budget VR headsets. 
+
+For this application, the GoDot game engine was used to create the virtual environment and control, and Android Studio was used for exporting to the Android phone.
+
 -This test was only on Android phones-
 
 Android Studio will be required for export - here are some useful links:
